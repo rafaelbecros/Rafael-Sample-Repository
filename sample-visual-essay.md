@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Garcia De Horta" 
-       banner="https://en.wikipedia.org/wiki/Theobroma_cacao#/media/File:Matadecacao.jpg"
+       banner="https://en.wikipedia.org/wiki/Garcia_de_Orta#/media/File:Garcia_de_Orta_(c._1906)_-_Veloso_Salgado.png"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
