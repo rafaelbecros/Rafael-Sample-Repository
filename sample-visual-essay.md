@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Garcia De Horta" 
-       banner="https://en.wikipedia.org/wiki/Garcia_de_Orta#/media/File:Garcia_de_Orta_(c._1906)_-_Veloso_Salgado.png"
+       banner="https://en.wikipedia.org/wiki/Theobroma_cacao#/media/File:Matadecacao.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -28,7 +28,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://en.wikipedia.org/wiki/Garcia_de_Orta#/media/File:Garcia_de_Orta_(c._1906)_-_Veloso_Salgado.png">
 
 ## Map
 
