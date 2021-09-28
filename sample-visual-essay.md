@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Garcia De Horta" 
+       title="Garcia De Orta" 
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Matadecacao.jpg/400px-Matadecacao.jpg">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -22,12 +22,11 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
+_Garcia De Orta_ Garcia de Orta (or Garcia d'Orta) (1501? – 1568) was a Portuguese Renaissance Sephardi Jewish physician, herbalist and naturalist
        label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       description="Garcia de Orta, 1906, by Veloso Salgado" 
        license="public domain" 
-       url="https://en.wikipedia.org/wiki/Garcia_de_Orta#/media/File:Garcia_de_Orta_(c._1906)_-_Veloso_Salgado.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Garcia_de_Orta_%28c._1906%29_-_Veloso_Salgado.png">
 
 ## Map
 
