@@ -22,8 +22,8 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 ## Image
 
-_Garcia De Orta_ Garcia de Orta (or Garcia d'Orta) (1501? – 1568) was a Portuguese Renaissance Sephardi Jewish physician, herbalist and naturalist
-       label="Girl with a Pearl Earring" 
+_Garcia De Orta_ <29> Garcia de Orta (or Garcia d'Orta) (1501? – 1568) was a Portuguese Renaissance Sephardi Jewish physician, herbalist and naturalist
+       label="G" 
        description="Garcia de Orta, 1906, by Veloso Salgado" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Garcia_de_Orta_%28c._1906%29_-_Veloso_Salgado.png">
